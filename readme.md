@@ -29,8 +29,8 @@
 
 5. 在左侧找到info并点开，在右侧找到Request Headers，将Cookie中的eai-sess和UUkey记录下来![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410115438.jpg)
 
-如果以上方法未能找到info页面和Cookie中的eai-sess和UUke，请尝试按下图方法搜索：
-
+如果以上方法未能找到info页面和Cookie中的eai-sess和UUke，请尝试按下图方法搜索：         
+    
 1. 打开Network选项，勾选Preserve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000353.png)
 
 2. 点击放大镜处的搜索按钮![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200915000637.png)
@@ -66,7 +66,7 @@
 
     ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817191741.png)
 
-    在readme文件中随意修改任意字符（比如加个空格），然后点击下方的Commit Changes即可激活每日定时打卡脚本
+    在readme文件中随意修改任意 字符（比如加个空格），然后点击下方的Commit Changes即可激活每日定时打卡脚本
 
     ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817192122.png)
 
