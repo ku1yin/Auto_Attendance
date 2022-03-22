@@ -21,7 +21,7 @@
 
 1. 打开浏览器，按F12调出控制台
 
-2. 打开Network选项，勾选Preserve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410114231.jpg)
+2. 打开Network选项，勾选Pre serve log![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410114231.jpg)
 
 3. 打开健康打卡页面[https://wxxy.csu.edu.cn/ncov/wap/default/index](https://wxxy.csu.edu.cn/ncov/wap/default/index)
 
